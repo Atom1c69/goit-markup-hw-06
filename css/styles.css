@@ -1252,7 +1252,7 @@ label {
 /* ------------------HEADER------------------------- */
 @media screen and (min-width: 768px) {
     .container {
-        max-width: 584px;
+        max-width: 768px;
     }
 
     .section {
@@ -1431,6 +1431,10 @@ label {
         gap: 64px 24px;
     }
 
+    .ourteam-container {
+        width: 552px;
+    }
+
 
     .ourteam-item {
         width: calc((100% - 24px) / 2);
@@ -1441,7 +1445,7 @@ label {
     /* --------------------SECTION 5 --------------------------- */
 
     .customers-container {
-        
+        width: 552px;
     }
 
     .customers-list {
@@ -1494,6 +1498,7 @@ label {
 @media screen and (min-width: 1158px){
     .container {
         max-width: 1158px;
+        width: 100%;
         padding-left: 15px;
         padding-right: 15px;
     }
