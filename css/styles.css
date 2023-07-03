@@ -1383,6 +1383,12 @@ label {
                 url(../images/hero-background-tab@2x.jpg);
             }
         }
+        
+        .hero {
+            padding-top: 112px;
+            padding-bottom: 112px;
+        }
+
     .hero-container{
         gap: 36px;
     }
